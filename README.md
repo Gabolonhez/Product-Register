@@ -22,3 +22,11 @@ Agora eu irei escrever um código em HTML para teste:
  </body>
 </html>
 ```
+
+## Utilidades do arquivo README.md
+
+* Descrição do seu projeto
+* Funcionalidades
+* Como os usuários devem usar
+* Onde os usuários podem encontrar ajuda sobre o projeto 
+* Autores do projeto 
