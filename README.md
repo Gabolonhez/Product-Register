@@ -30,3 +30,9 @@ Agora eu irei escrever um código em HTML para teste:
 * Como os usuários devem usar
 * Onde os usuários podem encontrar ajuda sobre o projeto 
 * Autores do projeto 
+
+para execultar o arquivo **app.js** vamos utilizar o node.js
+
+```
+npm app.js
+```
