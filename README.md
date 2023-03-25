@@ -31,7 +31,7 @@ Agora eu irei escrever um código em HTML para teste:
 * Onde os usuários podem encontrar ajuda sobre o projeto 
 * Autores do projeto 
 
-para execultar o arquivo **app.js** vamos utilizar o node.js
+para executar o arquivo **app.js** vamos utilizar o node.js
 
 ```
 npm app.js
