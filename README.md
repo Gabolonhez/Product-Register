@@ -1,6 +1,7 @@
 # Sistema de cadastro de Produtos
 
 > Status do projeto: Em desenvolvimento
+> Status: Em desenvolvimento
 
 Para rodar esse projeto no seu computador, por favor digite no terminal:
 

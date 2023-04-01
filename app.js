@@ -1,5 +1,6 @@
 // definindo uma lista
 let numeros = [2,4,6,8,10]
+let numeros2 = [2,4,6,8,10]
 
 // Percorrendo a lista
 for(let i = 0; i < numeros.length; i++){
@@ -8,5 +9,6 @@ for(let i = 0; i < numeros.length; i++){
   }else{
     console.log(numero[i] + " é um número par")
   }
+  //Comentário de teste
 }
 
